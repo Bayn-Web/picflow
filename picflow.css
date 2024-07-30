@@ -1,0 +1,12 @@
+.pic-flow-pic {
+    width: var(--pic-flow-width);
+    position: absolute;
+    transform: translateX(var(--pic-flow-translate-x)) translateY(var(--pic-flow-translate-y));
+    animation: grow 0.3s linear forwards;
+}
+
+@keyframes grow {
+    0% {
+        opacity: 0;
+    }
+}
