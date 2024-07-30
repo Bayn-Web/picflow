@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# picflow
-Simple and reliable image waterfall flow solution
-=======
 # PicFlow
 
 Simple and reliable image waterfall flow solution.
@@ -33,4 +29,3 @@ The parameter for addPic can be either a single URL string or an array of URLs.
 ## end
 
 Thanks for using PicFlow!
->>>>>>> master
